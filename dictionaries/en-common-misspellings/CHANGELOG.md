@@ -1,5 +1,16 @@
 # Change Log
 
+## [2.0.10](https://github.com/forks-by-kieran/cspell-dicts/compare/@cspell/dict-en-common-misspellings-v2.0.9...@cspell/dict-en-common-misspellings@2.0.10) (2025-02-07)
+
+
+### Updates and Bug Fixes
+
+* Add words from my project ([#3846](https://github.com/forks-by-kieran/cspell-dicts/issues/3846)) ([97282e6](https://github.com/forks-by-kieran/cspell-dicts/commit/97282e6f3e0022e5f527acbb5746a47dbb37d822))
+* Adjust dictionary names ([#3958](https://github.com/forks-by-kieran/cspell-dicts/issues/3958)) ([8a96533](https://github.com/forks-by-kieran/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Fix the git repository URL ([#3665](https://github.com/forks-by-kieran/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/forks-by-kieran/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/forks-by-kieran/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/forks-by-kieran/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/forks-by-kieran/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/forks-by-kieran/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+
 ## [2.0.9](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.0.8...@cspell/dict-en-common-misspellings@2.0.9) (2025-01-18)
 
 
